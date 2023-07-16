@@ -11,7 +11,8 @@ Ce sont des solutions aux problèmes du monde réel qui surgissent à maintes re
 - Singleton Pattern ( One class can only have one instance at a time ).
 - Adapter Pattern ( Match interface of different classes ).
 
----------------------------------------------------------------------- Design Principles ------------------------------------------------
+
+--- Design Principles ---
 
 ### SOLID : 
 ##### Principe de responsabilité unique (SRP - Single Responsibility Principle) :
